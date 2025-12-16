@@ -18,33 +18,20 @@ _Construindo a ponte entre engenharia de som profissional e inteligência artifi
 
 ## Sobre Mim
 
-<table>
-<tr>
-<td width="50%">
+Sou um **engenheiro de som que se tornou desenvolvedor de IA e designer de hardware**, com mais de 10 anos de experiência profissional em áudio. Minha missão é democratizar a tecnologia através do **código aberto**, criando ferramentas que conectam a intenção humana à execução da máquina.
 
-### Formação
+| Formação         |                                                             |
+| ---------------- | ----------------------------------------------------------- |
+| **Acadêmica**    | Produção Fonográfica                                        |
+| **Profissional** | Áudio e Acústica                                            |
+| **Experiência**  | 10+ anos como técnico de som ao vivo e estúdio              |
+| **Atual**        | Cursando IA, especialização em Audio AI & Interfaces de Voz |
 
-|                  |                                |
-| ---------------- | ------------------------------ |
-| **Acadêmica**    | Produção Fonográfica           |
-| **Profissional** | Áudio e Acústica               |
-| **Experiência**  | 10+ anos som ao vivo & estúdio |
-| **Atual**        | Cursando IA — Audio AI & Voz   |
-
-</td>
-<td width="50%">
-
-### Áreas de Foco
-
-|                                 |                                   |
-| ------------------------------- | --------------------------------- |
-| **Voz & Audio AI**              | TTS, STT, processamento real-time |
-| **Interação Humano-Computador** | Entrada ergonômica, voice-first   |
-| **Linux Desktop**               | Arch, Hyprland, automação         |
-
-</td>
-</tr>
-</table>
+| Áreas de Foco                   |                                                                        |
+| ------------------------------- | ---------------------------------------------------------------------- |
+| **Voz & Audio AI**              | TTS neural, reconhecimento de fala, processamento em tempo real        |
+| **Interação Humano-Computador** | Dispositivos ergonômicos, layouts alternativos, interfaces voice-first |
+| **Automação Linux Desktop**     | Arch Linux, Hyprland, automação de sistema, computação acessível       |
 
 <div align="center">
 
@@ -56,32 +43,20 @@ _"A tecnologia deve se adaptar aos humanos, não o contrário."_
 
 ## Projetos em Destaque
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Voz & Audio AI
 
-| Projeto                                                                  | Descrição                                                  |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| **[voice-selection](https://github.com/renatobarrosai/voice_selection)** | TTS neural em tempo real de texto selecionado (Kokoro-82M) |
-| **voice-os**                                                             | Controle total por voz no Linux — sem teclado _(WIP)_      |
-| **hyprwhspr**                                                            | Integração Whisper STT em todo o sistema                   |
-
-</td>
-<td width="50%" valign="top">
+| Projeto                                                                  | Descrição                                                                                                                                                                      | Status             |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| **[voice-selection](https://github.com/renatobarrosai/voice_selection)** | TTS neural em tempo real a partir de texto selecionado no Wayland. Threading producer-consumer com pipeline de áudio em streaming usando Kokoro-82M.                           | Ativo              |
+| **voice-os**                                                             | Sistema completo de controle por voz para Linux — navegar na web, ouvir música, enviar mensagens, gerenciar arquivos, tudo através de linguagem natural. Sem teclado ou mouse. | Em Desenvolvimento |
+| **hyprwhspr**                                                            | Integração do Whisper STT com Arch Linux — entrada de voz para texto em qualquer aplicativo, ditado em todo o sistema com ativação por hotkey.                                 | Ativo              |
 
 ### Hardware & Entrada
 
-| Projeto                                              | Descrição                                       |
-| ---------------------------------------------------- | ----------------------------------------------- |
-| **[ADA36](https://github.com/renatobarrosai/ada36)** | Teclado split ergonômico 36 teclas (QMK/RP2040) |
-| **colemak-dhk-br**                                   | Primeiro Colemak-DHK com acentos portugueses    |
-| **arch-autoconfig**                                  | Auto-detecção de monitores & teclados           |
-
-</td>
-</tr>
-</table>
+| Projeto                                              | Descrição                                                                                                                                                                                     | Tech           |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **[ADA36](https://github.com/renatobarrosai/ada36)** | Teclado ergonômico split de 36 teclas. Projetado do zero — modelo único com layout colunar, home row mods, 8 camadas.                                                                         | QMK, RP2040, C |
+| **colemak-dhk-br**                                   | Layouts Colemak-DHK para teclados brasileiros ABNT2 e americanos com suporte completo a acentuação. Funciona no TTY e Hyprland — primeira implementação deste layout com acentos portugueses. | XKB, Linux     |
 
 <div align="center">
 
@@ -162,7 +137,9 @@ _Controle completo do computador por linguagem natural — sem teclado, sem mous
 
 </div>
 
+<p align="justify">
 Como alguém que trabalhou com áudio por mais de uma década, entendo o poder da voz humana. Combinada com IA moderna (Whisper para STT, LLMs para intenção, Kokoro para TTS), podemos criar experiências de computação verdadeiramente acessíveis — para pessoas com deficiências motoras, LER/DORT, ou qualquer um que busque uma interface mais natural.
+</p>
 
 ---
 
@@ -170,16 +147,16 @@ Como alguém que trabalhou com áudio por mais de uma década, entendo o poder d
 
 <div align="center">
 
-```
-10+ anos mixando shows ao vivo  →    Compreensão das necessidades reais
-Experiência em estúdio          →    Conhecimento de processamento de sinal
-Certificação em acústica        →    Base científica para audio AI
-Estudos em IA/ML                →    Habilidades técnicas para construir
+Minha formação única me permite abordar Audio AI da perspectiva de um profissional:
 
-════════════════════════════════════════════════════════════════════
-      Construindo ferramentas de áudio que resolvem problemas reais
-════════════════════════════════════════════════════════════════════
-```
+|          Experiência           |                Insight                 |
+| :----------------------------: | :------------------------------------: |
+| 10+ anos mixando shows ao vivo |   Compreensão das necessidades reais   |
+|     Experiência em estúdio     | Conhecimento de processamento de sinal |
+|    Certificação em acústica    |     Base científica para audio AI      |
+|        Estudos em IA/ML        |  Habilidades técnicas para construir   |
+
+**Construindo ferramentas de áudio que resolvem problemas reais**
 
 </div>
 
