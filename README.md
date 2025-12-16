@@ -1,233 +1,181 @@
-<div align="center">
-
 # Renato Barros
-### Engenheiro de IA & Desenvolvedor de Soluções de Ponta a Ponta
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatobarros-ai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falecomrenatobarros@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
+**Audio Engineer × AI Developer × Hardware Designer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=renatobarrosai&color=blueviolet&style=for-the-badge)
+> Building the bridge between professional sound engineering and artificial intelligence — creating accessible tools for the future of human-computer interaction.
 
-</div>
-
----
-
-## Sobre Mim
-
-> *"Construo aplicações inteligentes e robustas para resolver problemas complexos, com foco em projetos de alto impacto real."*
-
-* **Mais de uma década** transformando sistemas complexos em soluções elegantes  
-* **Especialista em IA** com abordagem metódica desde engenharia de áudio até arquitetura de sistemas inteligentes  
-* **Foco em impacto real** - da prova de conceito até produção escalável  
-* **Paixão por inovação** - sempre em busca de desafios que exigem rigor técnico e compreensão profunda dos problemas humanos  
-
-<div align="center">
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatobarrosai&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatobarrosai&layout=compact&theme=radical&hide_border=true)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatobarros-ai/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:falecomrenatobarros@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-renatobarrosai-181717?style=flat&logo=github&logoColor=white)](https://github.com/renatobarrosai)
 
 ---
 
-## Principais Competências
+## About Me
 
-<table>
-<tr>
-<td width="50%">
+I'm a **sound engineer turned AI developer and hardware designer**, with 10+ years of professional audio experience. My mission is to democratize technology through **open source**, creating tools that bridge the gap between human intention and machine execution.
 
-### Engenharia de Aplicações com LLMs
-- **Sistemas RAG** - Enriquecimento de LLMs com conhecimento externo
-- **Agentes Autônomos** - Sistemas que raciocinam, planejam e executam
-- **Extração Estruturada** - Dados de documentos complexos
+### Background
 
-### Ciclo de Vida de Modelos
-- **Fine-tuning (PEFT/LoRA)** - Otimização eficiente de modelos
-- **Engenharia de Dataset** - Curadoria e preparação de dados
-- **Personalização** - Criação de "personas" específicas
+| Area             | Details                                                 |
+| ---------------- | ------------------------------------------------------- |
+| **Academic**     | Sound Recording & Production                            |
+| **Professional** | Audio Engineering & Acoustics Certification             |
+| **Experience**   | 10+ years as live sound and studio engineer             |
+| **Current**      | AI Student, specializing in Audio AI & Voice Interfaces |
 
-</td>
-<td width="50%">
+### What Drives Me
 
-### Arquitetura de Sistemas de IA
-- **APIs Robustas (FastAPI)** - Serviços escaláveis e performáticos
-- **Deploy & LLMOps** - Automação em ambientes de nuvem
-- **Arquiteturas Desacopladas** - Separação clara de responsabilidades
-
-### Desenvolvimento & Interface
-- **Frontend Moderno (React/Vue)** - Experiências polidas
-- **Integrações Conversacionais** - APIs WhatsApp e plataformas
-- **Foco no Usuário Final** - Produtos completos e profissionais
-
-</td>
-</tr>
-</table>
-
----
-
-## Arsenal Tecnológico
-
-<div align="center">
-
-### **Inteligência Artificial & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
-
-### **Backend & APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Frontend & UI**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## Projetos em Destaque
-
-<div align="center">
-
-### [Sistema de Fact-Checking com IA Multi-Agente](link-para-repo)
-**Verificação automática de fatos usando múltiplos agentes especializados**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-• **Arquitetura em cascata** com 6 agentes especializados  
-• **Investigação web** automática em fontes confiáveis  
-• **Processamento em 4 modos** (Rápido ~1s até Completo ~45s)  
-• **Dashboard interativo** para monitoramento em tempo real  
-
----
-
-### [Time Series Forecasting com TinyTimeMixer (TTM)](https://github.com/renatobarrosai/ttm-r2.1-challenge.git)
-**Previsão de vendas usando IBM Granite e fine-tuning eficiente**
-
-![IBM](https://img.shields.io/badge/IBM%20Granite-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
-
-• **Janelas de contexto** de 2 anos para previsões de 6 meses  
-• **Fine-tuning seletivo** com redução de ~95% dos parâmetros  
-• **QLoRA** para otimização de memória e performance  
-• **Pipeline completo** de preprocessamento até inferência  
-
----
-
-### [Sistema de Fine-tuning PTT5 com QLoRA](https://github.com/renatobarrosai/sistema_le_mat.git)
-**Pipeline completo para personalização de modelos Portuguese T5**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
-![LoRA](https://img.shields.io/badge/LoRA-FF6B6B?style=flat-square)
-
-• **Quantização 4-bit** reduzindo uso de memória em ~75%  
-• **PEFT/LoRA** para treinamento eficiente de parâmetros  
-• **Templates modulares** para diferentes estilos de persona  
-• **Métricas robustas** com ROUGE e BLEU  
-
----
-
-### [Sistema de Monitoramento de Alagamentos - Porto Alegre](https://github.com/renatobarrosai/alerta_poa.git)
-**Sistema acadêmico de monitoramento em tempo real com IA**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-
-• **CNN para detecção de pessoas** em situação de risco  
-• **Mapa interativo** com 16 regiões de POA em tempo real  
-• **Sistema de alertas** em 3 níveis com notificações automáticas  
-• **WebSocket** para atualizações instantâneas  
-
-</div>
-
----
-
-## Contribuições & Atividade
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatobarrosai&theme=react-dark&hide_border=true)
-
-### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=renatobarrosai&theme=radical&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## O que estou explorando agora
-
-```python
-class FocusAtual:
-    def __init__(self):
-        self.aprendendo = [
-            "Multi-Agent Systems & LangGraph",
-            "Edge AI & Model Optimization", 
-            "Blockchain Integration with AI",
-            "Distributed AI Architectures"
-        ]
-        
-        self.construindo = [
-            "Plataforma de Agentes Autônomos",
-            "Sistema de BI com IA Generativa",
-            "RAG Multimodal (Texto + Visão)",
-            "Framework de LLMOps Simplificado"
-        ]
-    
-    def proximo_projeto(self):
-        return "Sempre aberto a desafios inovadores!"
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   "Technology should adapt to humans, not the other way around."            │
+│                                                                              │
+│   I build tools that let people interact with computers naturally —         │
+│   through voice, through ergonomic hardware, through intuitive interfaces.  │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Vamos Conversar?
+## Focus Areas
 
-<div align="center">
+### Voice & Audio AI
 
-### Estou sempre interessado em:
+Neural TTS, speech recognition, real-time audio processing, and voice-controlled computing.
 
-**Projetos inovadores** que resolvem problemas reais  
-**Colaborações** em IA e tecnologias emergentes  
-**Oportunidades** para criar impacto positivo  
-**Compartilhar conhecimento** e aprender com a comunidade  
+### Human-Computer Interaction
 
-### Como me encontrar:
+Ergonomic input devices, alternative keyboard layouts, and voice-first interfaces.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatobarros-ai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falecomrenatobarros@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatobarrosai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
+### Linux Desktop Automation
 
-</div>
+Arch Linux, Hyprland, system automation, and accessible computing solutions.
+
+---
+
+## Featured Projects
+
+### Voice & Audio AI
+
+| Project                                                                  | Description                                                                                                                                                 | Status         |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **[voice-selection](https://github.com/renatobarrosai/voice_selection)** | Real-time neural TTS from selected text on Wayland. Producer-consumer threading with streaming audio pipeline using Kokoro-82M.                             | Active         |
+| **voice-os**                                                             | Full voice control system for Linux — browse the web, play music, send messages, manage files, all through natural language. No keyboard or mouse required. | In Development |
+| **hyprwhspr**                                                            | Whisper STT integration for Arch Linux — voice-to-text input in any application, system-wide dictation with hotkey activation.                              | Active         |
+
+### Hardware & Input
+
+| Project                                              | Description                                                                                                                                                                 | Tech           |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **[ADA36](https://github.com/renatobarrosai/ada36)** | Custom 36-key split ergonomic keyboard. Designed from scratch — unique model with columnar layout, home row mods, 8 layers.                                                 | QMK, RP2040, C |
+| **colemak-dhk-br**                                   | Colemak-DHK layouts for Brazilian ABNT2 and US keyboards with full accent support. Works in TTY and Hyprland — first implementation of this layout with Portuguese accents. | XKB, Linux     |
+
+### Developer Tools
+
+| Project                                                              | Description                                                                                                                    | Tech           |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| **[local-docs](https://github.com/renatobarrosai/local-docs-fenix)** | CLI tool to clone technical documentation for offline/AI use                                                                   | Python, Typer  |
+| **[frevo](https://github.com/renatobarrosai/frevo)**                 | Warm color scheme inspired by Brazilian Carnival                                                                               | Lua, TOML      |
+| **arch-autoconfig**                                                  | Auto-detection and configuration for monitors (with GPU routing), multiple keyboards with distinct layouts on the same machine | Bash, Hyprland |
+
+---
+
+## Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**AI/ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
+
+**Audio**  
+![Kokoro TTS](https://img.shields.io/badge/Kokoro_TTS-FF6B6B?style=flat)
+![PortAudio](https://img.shields.io/badge/PortAudio-008080?style=flat)
+![PipeWire](https://img.shields.io/badge/PipeWire-4B8BBE?style=flat)
+![ALSA](https://img.shields.io/badge/ALSA-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Hardware**  
+![QMK](https://img.shields.io/badge/QMK-000000?style=flat)
+![RP2040](https://img.shields.io/badge/RP2040-A22846?style=flat&logo=raspberrypi&logoColor=white)
+
+**Environment**  
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+
+---
+
+## Current Focus: Voice-First Computing
+
+I'm developing a complete voice control system for Linux that enables:
+
+| Command Type        | Example                                      |
+| ------------------- | -------------------------------------------- |
+| **Web browsing**    | "Open YouTube and search for jazz music"     |
+| **Media control**   | "Play the next song" / "Lower the volume"    |
+| **Messaging**       | "Send a message to John saying I'll be late" |
+| **File management** | "Move all PDFs from Downloads to Documents"  |
+| **System control**  | "Open terminal and run the backup script"    |
+
+**No keyboard. No mouse. Just your voice.**
+
+### Why This Matters
+
+As someone who has worked with audio for over a decade, I understand the power of the human voice as an interface. Combined with modern AI (Whisper for STT, LLMs for intent, Kokoro for TTS), we can create computing experiences that are truly accessible — for people with motor disabilities, RSI, or anyone who wants a more natural way to interact with their computer.
+
+---
+
+## The Audio AI Vision
+
+My unique background allows me to approach Audio AI from a practitioner's perspective:
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   10+ years mixing live shows    →    Understanding real-world audio needs  │
+│   Studio recording experience    →    Knowledge of signal processing        │
+│   Acoustics certification        →    Scientific foundation for audio AI    │
+│   AI/ML studies                  →    Technical skills to build solutions   │
+│                                                                             │
+│   Result: Building audio tools that actually solve real problems            │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Philosophy
+
+- **Professional tools should be open source** — giving back to the community
+- **Hardware should adapt to human ergonomics** — not the other way around
+- **Voice is the most natural interface** — we've been speaking for millennia
+- **Technology should empower, not exclude** — accessibility by design
+
+---
+
+## Let's Connect
+
+I'm interested in:
+
+- **Collaborations** on Audio AI and voice interface projects
+- **Discussions** about TTS, STT, audio processing, and ergonomic input
+- **Opportunities** in the Audio AI / Voice Technology space
+- **Contributions** to accessibility-focused open source
+
+**Email**: falecomrenatobarros@gmail.com
 
 ---
 
 <div align="center">
 
-### Se algum projeto foi útil, considere dar uma estrela!
+_Giving back to society through open source — one commit at a time._
 
-**"A IA não substitui humanos - amplifica nossa capacidade de resolver problemas complexos."**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatobarrosai&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 </div>
