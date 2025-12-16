@@ -16,24 +16,24 @@ _Construindo a ponte entre engenharia de som profissional e inteligência artifi
 
 ---
 
+<div align="center">
+
 ## Sobre Mim
 
 Sou um **engenheiro de som que se tornou desenvolvedor de IA e designer de hardware**, com mais de 10 anos de experiência profissional em áudio. Minha missão é democratizar a tecnologia através do **código aberto**, criando ferramentas que conectam a intenção humana à execução da máquina.
 
-| Formação         |                                                             |
-| ---------------- | ----------------------------------------------------------- |
-| **Acadêmica**    | Produção Fonográfica                                        |
-| **Profissional** | Áudio e Acústica                                            |
-| **Experiência**  | 10+ anos como técnico de som ao vivo e estúdio              |
-| **Atual**        | Cursando IA, especialização em Audio AI & Interfaces de Voz |
+|     Formação     |                                                             |
+| :--------------: | :---------------------------------------------------------: |
+|  **Acadêmica**   |                    Produção Fonográfica                     |
+| **Profissional** |                      Áudio e Acústica                       |
+| **Experiência**  |       10+ anos como técnico de som ao vivo e estúdio        |
+|    **Atual**     | Cursando IA, especialização em Audio AI & Interfaces de Voz |
 
-| Áreas de Foco                   |                                                                        |
-| ------------------------------- | ---------------------------------------------------------------------- |
-| **Voz & Audio AI**              | TTS neural, reconhecimento de fala, processamento em tempo real        |
+|          Áreas de Foco          |                                                                        |
+| :-----------------------------: | :--------------------------------------------------------------------: |
+|       **Voz & Audio AI**        |    TTS neural, reconhecimento de fala, processamento em tempo real     |
 | **Interação Humano-Computador** | Dispositivos ergonômicos, layouts alternativos, interfaces voice-first |
-| **Automação Linux Desktop**     | Arch Linux, Hyprland, automação de sistema, computação acessível       |
-
-<div align="center">
+|   **Automação Linux Desktop**   |    Arch Linux, Hyprland, automação de sistema, computação acessível    |
 
 _"A tecnologia deve se adaptar aos humanos, não o contrário."_
 
@@ -41,24 +41,24 @@ _"A tecnologia deve se adaptar aos humanos, não o contrário."_
 
 ---
 
+<div align="center">
+
 ## Projetos em Destaque
 
 ### Voz & Audio AI
 
-| Projeto                                                                  | Descrição                                                                                                                                                                      | Status             |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| **[voice-selection](https://github.com/renatobarrosai/voice_selection)** | TTS neural em tempo real a partir de texto selecionado no Wayland. Threading producer-consumer com pipeline de áudio em streaming usando Kokoro-82M.                           | Ativo              |
-| **voice-os**                                                             | Sistema completo de controle por voz para Linux — navegar na web, ouvir música, enviar mensagens, gerenciar arquivos, tudo através de linguagem natural. Sem teclado ou mouse. | Em Desenvolvimento |
-| **hyprwhspr**                                                            | Integração do Whisper STT com Arch Linux — entrada de voz para texto em qualquer aplicativo, ditado em todo o sistema com ativação por hotkey.                                 | Ativo              |
+|                                 Projeto                                  |                                                                                   Descrição                                                                                    |       Status       |
+| :----------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------: |
+| **[voice-selection](https://github.com/renatobarrosai/voice_selection)** |              TTS neural em tempo real a partir de texto selecionado no Wayland. Threading producer-consumer com pipeline de áudio em streaming usando Kokoro-82M.              |       Ativo        |
+|                               **voice-os**                               | Sistema completo de controle por voz para Linux — navegar na web, ouvir música, enviar mensagens, gerenciar arquivos, tudo através de linguagem natural. Sem teclado ou mouse. | Em Desenvolvimento |
+|                              **hyprwhspr**                               |                 Integração do Whisper STT com Arch Linux — entrada de voz para texto em qualquer aplicativo, ditado em todo o sistema com ativação por hotkey.                 |       Ativo        |
 
 ### Hardware & Entrada
 
-| Projeto                                              | Descrição                                                                                                                                                                                     | Tech           |
-| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| **[ADA36](https://github.com/renatobarrosai/ada36)** | Teclado ergonômico split de 36 teclas. Projetado do zero — modelo único com layout colunar, home row mods, 8 camadas.                                                                         | QMK, RP2040, C |
-| **colemak-dhk-br**                                   | Layouts Colemak-DHK para teclados brasileiros ABNT2 e americanos com suporte completo a acentuação. Funciona no TTY e Hyprland — primeira implementação deste layout com acentos portugueses. | XKB, Linux     |
-
-<div align="center">
+|                       Projeto                        |                                                                                           Descrição                                                                                           |      Tech      |
+| :--------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+| **[ADA36](https://github.com/renatobarrosai/ada36)** |                                     Teclado ergonômico split de 36 teclas. Projetado do zero — modelo único com layout colunar, home row mods, 8 camadas.                                     | QMK, RP2040, C |
+|                  **colemak-dhk-br**                  | Layouts Colemak-DHK para teclados brasileiros ABNT2 e americanos com suporte completo a acentuação. Funciona no TTY e Hyprland — primeira implementação deste layout com acentos portugueses. |   XKB, Linux   |
 
 ### Ferramentas de Desenvolvimento
 
@@ -106,32 +106,14 @@ _"A tecnologia deve se adaptar aos humanos, não o contrário."_
 
 _Controle completo do computador por linguagem natural — sem teclado, sem mouse, apenas sua voz._
 
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-| Comando      | Exemplo                          |
-| ------------ | -------------------------------- |
-| **Web**      | "Abra o YouTube e pesquise jazz" |
-| **Mídia**    | "Toque a próxima música"         |
-| **Arquivos** | "Mova os PDFs para Documentos"   |
-
-</td>
-<td width="50%">
-
-| Comando       | Exemplo                          |
-| ------------- | -------------------------------- |
+|    Comando    |             Exemplo              |
+| :-----------: | :------------------------------: |
+|    **Web**    | "Abra o YouTube e pesquise jazz" |
+|   **Mídia**   |     "Toque a próxima música"     |
+| **Arquivos**  |  "Mova os PDFs para Documentos"  |
 | **Mensagens** | "Mande pro João que vou atrasar" |
-| **Sistema**   | "Abra o terminal, rode o backup" |
-| **Apps**      | "Abra o Firefox"                 |
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+|  **Sistema**  | "Abra o terminal, rode o backup" |
+|   **Apps**    |         "Abra o Firefox"         |
 
 ### Por Que Isso Importa
 

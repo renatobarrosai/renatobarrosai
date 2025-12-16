@@ -16,22 +16,24 @@ _Building the bridge between professional sound engineering and artificial intel
 
 ---
 
+<div align="center">
+
 ## About Me
 
 I'm a **sound engineer turned AI developer and hardware designer**, with 10+ years of professional audio experience. My mission is to democratize technology through **open source**, creating tools that bridge the gap between human intention and machine execution.
 
-| Background       |                                                         |
-| ---------------- | ------------------------------------------------------- |
-| **Academic**     | Sound Recording & Production                            |
-| **Professional** | Audio Engineering & Acoustics Certification             |
-| **Experience**   | 10+ years as live sound and studio engineer             |
-| **Current**      | AI Student, specializing in Audio AI & Voice Interfaces |
+|    Background    |                                                         |
+| :--------------: | :-----------------------------------------------------: |
+|   **Academic**   |              Sound Recording & Production               |
+| **Professional** |       Audio Engineering & Acoustics Certification       |
+|  **Experience**  |       10+ years as live sound and studio engineer       |
+|   **Current**    | AI Student, specializing in Audio AI & Voice Interfaces |
 
-| Focus Areas                    |                                                                      |
-| ------------------------------ | -------------------------------------------------------------------- |
-| **Voice & Audio AI**           | Neural TTS, speech recognition, real-time audio processing           |
+|          Focus Areas           |                                                                      |
+| :----------------------------: | :------------------------------------------------------------------: |
+|      **Voice & Audio AI**      |      Neural TTS, speech recognition, real-time audio processing      |
 | **Human-Computer Interaction** | Ergonomic input devices, alternative layouts, voice-first interfaces |
-| **Linux Desktop Automation**   | Arch Linux, Hyprland, system automation, accessible computing        |
+|  **Linux Desktop Automation**  |    Arch Linux, Hyprland, system automation, accessible computing     |
 
 <div align="center">
 
@@ -41,24 +43,24 @@ _"Technology should adapt to humans, not the other way around."_
 
 ---
 
+<div align="center">
+
 ## Featured Projects
 
 ### Voice & Audio AI
 
-| Project                                                                  | Description                                                                                                                                                 | Status         |
-| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| **[voice-selection](https://github.com/renatobarrosai/voice_selection)** | Real-time neural TTS from selected text on Wayland. Producer-consumer threading with streaming audio pipeline using Kokoro-82M.                             | Active         |
-| **voice-os**                                                             | Full voice control system for Linux — browse the web, play music, send messages, manage files, all through natural language. No keyboard or mouse required. | In Development |
-| **hyprwhspr**                                                            | Whisper STT integration for Arch Linux — voice-to-text input in any application, system-wide dictation with hotkey activation.                              | Active         |
+|                                 Project                                  |                                                                         Description                                                                         |     Status     |
+| :----------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+| **[voice-selection](https://github.com/renatobarrosai/voice_selection)** |               Real-time neural TTS from selected text on Wayland. Producer-consumer threading with streaming audio pipeline using Kokoro-82M.               |     Active     |
+|                               **voice-os**                               | Full voice control system for Linux — browse the web, play music, send messages, manage files, all through natural language. No keyboard or mouse required. | In Development |
+|                              **hyprwhspr**                               |               Whisper STT integration for Arch Linux — voice-to-text input in any application, system-wide dictation with hotkey activation.                |     Active     |
 
 ### Hardware & Input
 
-| Project                                              | Description                                                                                                                                                                 | Tech           |
-| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| **[ADA36](https://github.com/renatobarrosai/ada36)** | Custom 36-key split ergonomic keyboard. Designed from scratch — unique model with columnar layout, home row mods, 8 layers.                                                 | QMK, RP2040, C |
-| **colemak-dhk-br**                                   | Colemak-DHK layouts for Brazilian ABNT2 and US keyboards with full accent support. Works in TTY and Hyprland — first implementation of this layout with Portuguese accents. | XKB, Linux     |
-
-<div align="center">
+|                       Project                        |                                                                                 Description                                                                                 |      Tech      |
+| :--------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+| **[ADA36](https://github.com/renatobarrosai/ada36)** |                         Custom 36-key split ergonomic keyboard. Designed from scratch — unique model with columnar layout, home row mods, 8 layers.                         | QMK, RP2040, C |
+|                  **colemak-dhk-br**                  | Colemak-DHK layouts for Brazilian ABNT2 and US keyboards with full accent support. Works in TTY and Hyprland — first implementation of this layout with Portuguese accents. |   XKB, Linux   |
 
 ### Developer Tools
 
@@ -106,32 +108,14 @@ _"Technology should adapt to humans, not the other way around."_
 
 _Complete computer control through natural language — no keyboard, no mouse, just your voice._
 
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-| Command   | Example                        |
-| --------- | ------------------------------ |
-| **Web**   | "Open YouTube and search jazz" |
-| **Media** | "Play next song"               |
-| **Files** | "Move PDFs to Documents"       |
-
-</td>
-<td width="50%">
-
-| Command      | Example                     |
-| ------------ | --------------------------- |
-| **Messages** | "Text John I'll be late"    |
-| **System**   | "Open terminal, run backup" |
-| **Apps**     | "Launch Firefox"            |
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+|   Command    |            Example             |
+| :----------: | :----------------------------: |
+|   **Web**    | "Open YouTube and search jazz" |
+|  **Media**   |        "Play next song"        |
+|  **Files**   |    "Move PDFs to Documents"    |
+| **Messages** |    "Text John I'll be late"    |
+|  **System**  |  "Open terminal, run backup"   |
+|   **Apps**   |        "Launch Firefox"        |
 
 ### Why This Matters
 
